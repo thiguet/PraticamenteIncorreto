@@ -1,0 +1,26 @@
+{
+    "name": "PraticamenteIncorreto",
+    "version": "0.0.0",
+    "author": "",
+    "description": "",
+    "contributors": [
+        {
+            "name": "Thiguet",
+            "email": "thiguet2014@gmail.com"
+        }
+    ],
+    "repository": {   
+        "type" : "git",
+        "url" : "https://github.com/thiguet/PraticamenteIncorreto.git"
+    },
+    "scripts": {
+        "test": "grunt test"
+    },
+    "dependencies": {
+        "grunt": "~0.4.0",
+        "grunt-contrib-concat": "~0.5.1",
+        "grunt-contrib-uglify": "~0.2.7",
+        "grunt-contrib-jshint": "^0.12.0",
+        "grunt-contrib-watch": "~0.6.1"
+    }
+}
