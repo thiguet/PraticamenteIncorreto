@@ -244,7 +244,7 @@
             "Artista": "OneRepublic"
         },
         {
-            "Nome": "Fell Good",
+            "Nome": "Feel Good Inc",
             "Artista": "Gorillaz"
         },
         {
@@ -260,10 +260,14 @@
             "Artista": "Gorillaz"
         }
     ]
-    "Rap 10": [
+    "Rap 11": [
         {
-            "Nome": "Criolo",
-            "Artista": "Não existe Amor Em SP"
+            "Nome": "Não existe Amor Em SP",
+            "Artista": "Criolo"
+        },
+        {
+            "Nome": "Subirusdoistiuzin",
+            "Artista": "Criolo"
         },
         {
             "Nome": "Passarinhos",
