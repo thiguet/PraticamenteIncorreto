@@ -1,0 +1,393 @@
+"Repertório": [
+    "Estilo":[
+        {
+          "Nome da musica": ,
+          "Artista": ,
+          "Link": ,
+          "Tom": ,
+          "Dinamicidade": ,
+          "Di (Dinamico)": ,
+          "St (Estático)":
+        }
+    ],
+    "Sertanejo 14": [
+        {
+            "Nome": "Camarote",
+            "Artista": "Wesley Safadão"
+        },
+        {
+            "Nome": "Aquele 1%",
+            "Artista": "Wesley Safadão"
+        },
+        {
+            "Nome": "Beija Flor",
+            "Artista": "Henrique e Juliano"
+        },
+        {
+            "Nome": "Meu Coração deu Pt",
+            "Artista": "Wesley Safadão"
+        },
+        {
+            "Nome": "Suíte 14",
+            "Artista": "Henrique & Diego"
+        },
+        {
+            "Nome": "10%",
+            "Artista": "Maiara & Maraisa"
+        },
+        {
+            "Nome": "O nosso santo bateu",
+            "Artista": "Matheus & Kauan"
+        },
+        {
+            "Nome": "Cuida bem dela",
+            "Artista": "Henrique e Juliano"
+        },
+        {
+            "Nome": "Na hora da Raiva",
+            "Artista": "Henrique e Juliano"
+        },
+        {
+            "Nome": "Os anjos cantam",
+            "Artista": "Jorge e Mateus"
+        },
+        {
+            "Nome": "Louca de Saudade",
+            "Artista": "Jorge e Mateus"
+        },
+        {
+            "Nome": "Sosseguei",
+            "Artista": "Jorge e Mateus"
+        },
+        {
+            "Nome": "Dias de Sol",
+            "Artista": "Jorge e Mateus"
+        },
+        {
+            "Nome": "Nocaute",
+            "Artista": "Jorge e Mateus"
+        }
+    ],
+    "Funk 11":[
+        {
+            "Nome": "Explosão",
+            "Artista": "Mc Kevinho"
+        },
+        {
+            "Nome": "Bumbum Granada",
+            "Artista": "Mc's Zaac e Jerry"
+        },
+        {
+            "Nome": "Você Partiu meu Coração",
+            "Artista": "Nego do Borel"
+        },
+        {
+            "Nome": "Essa Mina é loka",
+            "Artista": "Annita"
+        },
+        {
+            "Nome": "Hoje",
+            "Artista": "Ludmila"
+        },
+        {
+            "Nome": "Ela é top",
+            "Artista": "Mc Bola"
+        },
+        {
+            "Nome": "Toda toda",
+            "Artista": "Mc Pikeno e Menor"
+        },
+        {
+            "Nome": "Vou passar cerol na mão",
+            "Artista": "Bonde do Tigrão"
+        },
+        {
+            "Nome": "O tamborzão ta rolando",
+            "Artista": "Koringa"
+        },
+        {
+            "Nome": "Vou desafiar você",
+            "Artista": "Mc Sapão"
+        },
+        {
+            "Nome": "O Grave Bater",
+            "Artista": "MC Kevinho"
+        }
+    ],
+    "Reggae 10": [
+        {
+            "Nome": "Zóio de Lula",
+            "Artista": "Charlie Brown Jr."
+        },
+        {
+            "Nome": "Quero Ser Feliz Também",
+            "Artista": "Natiruts"
+        },
+        {
+            "Nome": "No woman no Cry",
+            "Artista": "Bob Marley"
+        },
+        {
+            "Nome": "Sorri Sou Rei",
+            "Artista": "Natiruts"
+        },
+        {
+            "Nome": "Me namora",
+            "Artista": "Natiruts"
+        },
+        {
+            "Nome": "Andei Só",
+            "Artista": "Natiruts"
+        },
+        {
+            "Nome": "Você me encantou demais",
+            "Artista": "Natiruts"
+        },
+        {
+            "Nome": "Liberdade pra dentro da cabeça",
+            "Artista": "Natiruts"
+        },
+        {
+            "Nome": "Meu Lugar",
+            "Artista": "Onze:20"
+        },
+        {
+            "Nome": "Um anjo do céu",
+            "Artista": "Maskavo"
+        }
+    ],
+    "Rock Nacional 11": [
+        {
+            "Nome": "Piloto Automático",
+            "Artista": "Supercombo"
+        },
+        {
+            "Nome": "Amianto",
+            "Artista": "Supercombo"
+        },
+        {
+            "Nome": "Uma Atriz",
+            "Artista": "A Banda Mais Bonita da Cidade"
+        },
+        {
+            "Nome": "Oração",
+            "Artista": "A Banda Mais Bonita da Cidade"
+        },
+        {
+            "Nome": "Banda do Mar",
+            "Artista": "Mais Ninguém"
+        },
+        {
+            "Nome": "Sutilmente",
+            "Artista": "Skank"
+        },
+        {
+            "Nome": "Vou deixar",
+            "Artista": "Skank"
+        },
+        {
+            "Nome": "Ainda Gosto dela",
+            "Artista": "Skank"
+        },
+        {
+            "Nome": "Resposta",
+            "Artista": "Skank"
+        },
+        {
+            "Nome": "Acima do Sol",
+            "Artista": "Skank"
+        },
+        {
+            "Nome": "Dois Rios",
+            "Artista": "Skank"
+        }
+    ],
+    "Rock Internacional 1": [
+        {
+            "Nome": "Confortably Numb",
+            "Artista": "Pink Floyd "
+        }
+    ],
+    "Pop Nacional": [],
+
+    "Pop internacional 12":[
+        {
+            "Nome": "Do I Wanna Know?",
+            "Artista": "Artic Monkeys"
+        },
+        {
+            "Nome": "Snap Out Of It",
+            "Artista": "Artic Monkeys"
+        },
+        {
+            "Nome": "Payphone",
+            "Artista": "Marron 5"
+        },
+        {
+            "Nome": "Shape of You",
+            "Artista": "Ed Sheeran"
+        },
+        {
+            "Nome": "Pumped Up Kicks",
+            "Artista": "Foster The People"
+        },
+        {
+            "Nome": "Radioactive",
+            "Artista": "Imagine Dragons"
+        },
+        {
+            "Nome": "Imagine Dragons",
+            "Artista": "Imagine Dragons"
+        },
+        {
+            "Nome": "Counting Stars",
+            "Artista": "OneRepublic"
+        },
+        {
+            "Nome": "Fell Good",
+            "Artista": "Gorillaz"
+        },
+        {
+            "Nome": "Clint Eastwood",
+            "Artista": "Gorillaz"
+        },
+        {
+            "Nome": "Melancoly Hill",
+            "Artista": "Gorillaz"
+        },
+        {
+            "Nome": "Rhynestone Eyes",
+            "Artista": "Gorillaz"
+        }
+    ]
+    "Rap 10": [
+        {
+            "Nome": "Criolo",
+            "Artista": "Não existe Amor Em SP"
+        },
+        {
+            "Nome": "Passarinhos",
+            "Artista": "Emicida"
+        },
+        {
+            "Nome": "Proibida pra Mim",
+            "Artista": "Charlie Brown Jr."
+        },
+        {
+            "Nome": "Como tudo deve ser",
+            "Artista": "Charlie Brown Jr."
+        },
+        {
+            "Nome": "Céu Azul",
+            "Artista": "Charlie Brown Jr."
+        },
+        {
+            "Nome": "Meu novo mundo",
+            "Artista": "Charlie Brown Jr."
+        },
+        {
+            "Nome": "Um dia a gente se encontra",
+            "Artista": "Charlie Brown Jr."
+        },
+        {
+            "Nome": "Só os Loucos sabem",
+            "Artista": "Charlie Brown Jr."
+        },
+        {
+            "Nome": "Reza Vela",
+            "Artista": "O Rappa"
+        },
+        {
+            "Nome": "Mar de Gente",
+            "Artista": "O Rappa"
+        }
+    ],
+    "Mpb 20": [
+        {
+            "Nome": "Por enquanto",
+            "Artista": "Cássia Eller"
+        },
+        {
+            "Nome": "O Segundo do Sol",
+            "Artista": "Cássia Eller"
+        },
+        {
+            "Nome": "Depois de Nós",
+            "Artista": "Engenheiros do Hawaii"
+        },
+        {
+            "Nome": "Até o fim",
+            "Artista": "Engenheiros do Hawaii"
+        },
+        {
+            "Nome": "Armas Químicas e Poemas",
+            "Artista": "Engenheiros do Hawaii"
+        },
+        {
+            "Nome": "Dom Quixote",
+            "Artista": "Engenheiros do Hawaii"
+        },
+        {
+            "Nome": "Refrão de um Bolero",
+            "Artista": "Engenheiros do Hawaii"
+        },
+        {
+            "Nome": "Pose",
+            "Artista": "Engenheiros do Hawaii"
+        },
+        {
+            "Nome": "Infinita Highway",
+            "Artista": "Engenheiros do Hawaii"
+        },
+        {
+            "Nome": "Surfando karmas e DNA",
+            "Artista": "Engenheiros do Hawaii"
+        },
+        {
+            "Nome": "Terra de Gigantes",
+            "Artista": "Engenheiros do Hawaii"
+        },
+        {
+            "Nome": "Era um garoto que como eu amava os Beatles e os Rolling Stones",
+            "Artista": "Engenheiros do Hawaii"
+        },
+        {
+            "Nome": "Por onde Andei",
+            "Artista": "Nando  Reis"
+        },
+        {
+            "Nome": "De Janeiro a Janeiro",
+            "Artista": "Nando Reis"
+        },
+        {
+            "Nome": "All Star Azul",
+            "Artista": "Nando Reis"
+        },
+        {
+            "Nome": "Pra Você Guardei o Amor",
+            "Artista": "Nando Reis"
+        },
+        {
+            "Nome": "Marvin",
+            "Artista": "Titãs"
+        },
+        {
+            "Nome": "Epitáfio",
+            "Artista": "Titãs"
+        },
+        {
+            "Nome": "Televisão",
+            "Artista": "Titãs"
+        },
+        {
+            "Nome": "Sapato Velho",
+            "Artista": "Roupa Nova"
+        }
+    ],
+    "Samba 1": [
+        {
+            "Nome": "As Rosas não falam",
+            "Artista": "Cartola"
+        }
+    ]
+]

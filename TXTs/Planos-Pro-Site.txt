@@ -1,0 +1,42 @@
+- Site Mobile first
+- boostap e se precisar Angular 
+
+- Fase 1 - Conteúdo visível (Contato, Quem Somos, Links, Aba para Fotos)
+- Fase 2 - Interação (Chat pra comentários, Sistema de Publicações)
+- Fase 3 - Afiliação com o Usuário (Apps, Promoções, Sistema de Doações, Datas Importantes, tudo que for mais dinâmico)
+
+Conteúdo : 
+- Menu :
+	- Informações sobre a banda ( Contatos para shows )
+	- Eventos ?
+	- Vídeos ?
+	- Músicas ?
+
+- Corpo do site
+	- Sistema de publicações 
+		(Tipo o FB, só que apenas a gente) 
+	
+		- Enquetes ?
+		(A gente pergunta, o povo clica nos radio button)
+		- Conteúdos dinâmicos e simples 
+		- Frase do dia
+
+		- Comentários, Dicas e Sugestões 
+			(1 input text pra nome (Opcional) -> dá pra fazer umas zuera dahora
+			e um text area)
+			(tipo o Chatosco sem o nome obrigatório)
+
+- Outros
+	- Variar aparência conforme datas importantes (Pra dps)
+	- Parcerias? (No fim da página)
+
+	- Links das redes sociais (Coloca um translate 10/10
+					com o mouse no hover)
+	- App ? (Android e iOS) ou só WebView ? (Pra mto dps)
+	- Links pessoais de projetos pessoais... (Talvez?)
+		- Inicialmente seria uma página só falando de cada 1
+		- mas depois poderiam ser uma foto com link 
+		- pra uma página diferenciada
+		- estilizada ao jeito de cada um
+	- Ver com a Clara a questão da logo
+	
