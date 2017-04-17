@@ -38,7 +38,6 @@ module.exports = function (grunt) {
 
   function getJSPaths() {
     var paths = [
-      ('./assets/js/angularInit.js'), 
       ('./assets/js/**/*.js')
     ];
     return paths;
