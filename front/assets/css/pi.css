@@ -141,3 +141,8 @@ body {
   textarea {
       resize: none;
   }
+
+  #myCarousel {
+      width: 100%;
+      height: 100%;
+  }
