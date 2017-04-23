@@ -1,23 +1,6 @@
-// FILE: ./assets/js/RegisterInAngular.js
-function RegisterInAngular(name, callback) {
-	app.controller(name, callback);
-}
-
-// FILE: ./assets/js/angularInit.js
-var app = angular.module("praticamenteIncorreto", []);
-
-// FILE: ./assets/js/controllers/cabecalhoController.js
-function cabecalhoController() {
-
-
-}
-
-RegisterInAngular('cabecalhoController', cabecalhoController);
-
-// FILE: ./assets/js/screenInit.js
 function screenInit ($scope, $http) {
 
-	var X = $http.get( 'bandaInfo.json');
+	var X = $http.get( './asssets/json/bandaInfo.json');
 
 	$scope.menu = [
 		"HOME",
@@ -58,7 +41,5 @@ function screenInit ($scope, $http) {
 	}
 }
 
-
-RegisterInAngular('screenInit', screenInit);
 
 RegisterInAngular('screenInit', screenInit);

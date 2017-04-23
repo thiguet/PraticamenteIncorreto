@@ -48,6 +48,6 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-watch');
 
-  grunt.registerTask('default', [ /*'jshint',*/, 'concat']);
-  grunt.registerTask('uglify', [ /*'jshint',*/, 'uglify']);
+  grunt.registerTask('default', [ /*'jshint',*/ 'concat']);
+  grunt.registerTask('uglify', [ /*'jshint',*/ 'uglify']);
 };

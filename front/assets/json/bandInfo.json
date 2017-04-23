@@ -1,31 +1,35 @@
 {
+
 	"welcome": "E ai gente! Bem vindos ao nosso site. Ele foi criado pelos próprios componentes da banda e, tem como objetivo criar o maior vínculo possível entre vocês e nós. Aqui poderão ver um pouco do nosso conteúdo, além de nossos contatos, para sugestões e contratações.",
+	
 	"menu": [
 		"HOME",
 		"BANDA",
 		"SHOWS",
 		"CONTATO"
 	], 
+
+	
 	"banda": {
 		"nome": "Praticamente Incorreto",  
 		"descricao": "E ai gente! Bem vindos ao nosso site. Ele foi criado pelos próprios componentes da banda e, tem como objetivo criar o maior vínculo possível entre vocês e nós. Aqui poderão ver um pouco do nosso conteúdo, além de nossos contatos, para sugestões e contratações.",
-		"email": "bandapraticamenteincorreto@gmail.com"
-	},
-	"integrantes": [
-		{
-			"nome": "Thiguet",
-			"descricao": "Definindo coisas sem sentido desde sempre.",
-			"tel": "+55 (31) 98221-6556"
-		},
-		{
-			"nome": "Barbosa",
-			"descricao": "Vegeta + Ariano + Batera + Ser o cabuloso em tudo que faz.",
-			"tel": "+55 (31) 99296-9209"
-		},
-		{
-			"nome": "Leo",
-			"descricao": "Vários meu signo plural.",
-			"tel": "+55 (31) 99246-1009"
-		}
-	]
+		"email": "bandapraticamenteincorreto@gmail.com",
+		"integrantes": [
+			{
+				"nome": "Thiguet",
+				"descricao": "Definindo coisas sem sentido desde sempre.",
+				"tel": "+55 (31) 98221-6556"
+			},
+			{
+				"nome": "Barbosa",
+				"descricao": "Vegeta + Ariano + Batera + Ser o cabuloso em tudo que faz.",
+				"tel": "+55 (31) 99296-9209"
+			},
+			{
+				"nome": "Leo",
+				"descricao": "Vários meu signo plural.",
+				"tel": "+55 (31) 99246-1009"
+			}
+		]
+	}
 }
