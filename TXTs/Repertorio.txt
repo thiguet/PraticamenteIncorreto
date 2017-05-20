@@ -70,7 +70,7 @@
     ],
     "Funk 11":[
         {
-            "Nome": "Explosão",
+            "Nome": "Olha a Explosão",
             "Artista": "Mc Kevinho"
         },
         {
@@ -158,26 +158,6 @@
     ],
     "Rock Nacional 11": [
         {
-            "Nome": "Piloto Automático",
-            "Artista": "Supercombo"
-        },
-        {
-            "Nome": "Amianto",
-            "Artista": "Supercombo"
-        },
-        {
-            "Nome": "Uma Atriz",
-            "Artista": "A Banda Mais Bonita da Cidade"
-        },
-        {
-            "Nome": "Oração",
-            "Artista": "A Banda Mais Bonita da Cidade"
-        },
-        {
-            "Nome": "Banda do Mar",
-            "Artista": "Mais Ninguém"
-        },
-        {
             "Nome": "Sutilmente",
             "Artista": "Skank"
         },
@@ -201,78 +181,6 @@
             "Nome": "Dois Rios",
             "Artista": "Skank"
         }
-    ],
-    "Rock Internacional 1": [
-        {
-            "Nome": "Confortably Numb",
-            "Artista": "Pink Floyd "
-        }
-    ],
-    "Pop Nacional": [],
-
-    "Pop internacional 12":[
-        {
-            "Nome": "Do I Wanna Know?",
-            "Artista": "Artic Monkeys"
-        },
-        {
-            "Nome": "Snap Out Of It",
-            "Artista": "Artic Monkeys"
-        },
-        {
-            "Nome": "Payphone",
-            "Artista": "Marron 5"
-        },
-        {
-            "Nome": "Shape of You",
-            "Artista": "Ed Sheeran"
-        },
-        {
-            "Nome": "Pumped Up Kicks",
-            "Artista": "Foster The People"
-        },
-        {
-            "Nome": "Radioactive",
-            "Artista": "Imagine Dragons"
-        },
-        {
-            "Nome": "Imagine Dragons",
-            "Artista": "Imagine Dragons"
-        },
-        {
-            "Nome": "Counting Stars",
-            "Artista": "OneRepublic"
-        },
-        {
-            "Nome": "Feel Good Inc",
-            "Artista": "Gorillaz"
-        },
-        {
-            "Nome": "Clint Eastwood",
-            "Artista": "Gorillaz"
-        },
-        {
-            "Nome": "Melancoly Hill",
-            "Artista": "Gorillaz"
-        },
-        {
-            "Nome": "Rhynestone Eyes",
-            "Artista": "Gorillaz"
-        }
-    ]
-    "Rap 11": [
-        {
-            "Nome": "Não existe Amor Em SP",
-            "Artista": "Criolo"
-        },
-        {
-            "Nome": "Subirusdoistiuzin",
-            "Artista": "Criolo"
-        },
-        {
-            "Nome": "Passarinhos",
-            "Artista": "Emicida"
-        },
         {
             "Nome": "Proibida pra Mim",
             "Artista": "Charlie Brown Jr."
@@ -305,16 +213,6 @@
             "Nome": "Mar de Gente",
             "Artista": "O Rappa"
         }
-    ],
-    "Mpb 20": [
-        {
-            "Nome": "Por enquanto",
-            "Artista": "Cássia Eller"
-        },
-        {
-            "Nome": "O Segundo do Sol",
-            "Artista": "Cássia Eller"
-        },
         {
             "Nome": "Depois de Nós",
             "Artista": "Engenheiros do Hawaii"
@@ -355,6 +253,132 @@
             "Nome": "Era um garoto que como eu amava os Beatles e os Rolling Stones",
             "Artista": "Engenheiros do Hawaii"
         },
+
+            "Nome": "Meu Erro",
+            "Artista": "Paralamas do Sucesso"
+        },
+        {
+            "Nome": "Fátima",
+            "Artista": "Capital Inicial"
+        },
+        {
+            "Nome": "Tempo Perdido",
+            "Artista": "Legião Urbana"
+        },
+        {
+            "Nome": "Que País É Esse",
+            "Artista": "Legião Urbana"
+        },
+    ],
+    "Rock Internacional 1": [
+        {
+            "Nome": "Confortably Numb",
+            "Artista": "Pink Floyd "
+        },
+        {
+            "Nome": "Seven Nation Army",
+            "Artista": "White Stripes "
+        },
+        {
+            "Nome": "Saving Me",
+            "Artista": "Nickelbeck"
+        },
+        {
+            "Nome": "Photograph",
+            "Artista": "Nickelbeck "
+        }
+        {
+            "Nome": "Wish You Were",
+            "Artista": "Pink Floyd "
+        },
+        {
+            "Nome": "Boulevard of Broken Dreams",
+            "Artista": "Green Day "
+        },
+    ],
+    "Pop Nacional": [],
+
+    "Pop internacional 12":[
+        {
+            "Nome": "Do I Wanna Know?",
+            "Artista": "Artic Monkeys"
+        },
+        {
+            "Nome": "Snap Out Of It",
+            "Artista": "Artic Monkeys"
+        },
+        {
+            "Nome": "Payphone",
+            "Artista": "Marron 5"
+        },
+        {
+            "Nome": "Shape of You",
+            "Artista": "Ed Sheeran"
+        },
+        {
+            "Nome": "Pumped Up Kicks",
+            "Artista": "Foster The People"
+        },
+        {
+            "Nome": "Radioactive",
+            "Artista": "Imagine Dragons"
+        },
+        {
+            "Nome": "Demons",
+            "Artista": "Imagine Dragons"
+        },
+        {
+            "Nome": "Counting Stars",
+            "Artista": "OneRepublic"
+        },
+        {
+            "Nome": "Fell Good Inc",
+            "Artista": "Gorillaz"
+        },
+        {
+            "Nome": "Clint Eastwood",
+            "Artista": "Gorillaz"
+        },
+        {
+            "Nome": "On Melancoly Hill",
+            "Artista": "Gorillaz"
+        },
+        {
+            "Nome": "Rhynestone Eyes",
+            "Artista": "Gorillaz"
+        },
+        {
+            "Nome": "Royals",
+            "Artista": "Lorde"
+        },
+        {
+            "Nome": "Sweet Dreams",
+            "Artista": "Eurytmics "
+        },
+        {
+            "Nome": "Wonderwall",
+            "Artista": "Oasis"
+        },
+    ]
+    "Rap 10": [
+        {
+            "Nome": "Não existe Amor Em SP",
+            "Artista": "Criolo"
+        },
+        {
+            "Nome": "Passarinhos",
+            "Artista": "Emicida"
+        },
+    ],
+    "Mpb 20": [
+        {
+            "Nome": "Por enquanto",
+            "Artista": "Cássia Eller"
+        },
+        {
+            "Nome": "O Segundo do Sol",
+            "Artista": "Cássia Eller"
+        },
         {
             "Nome": "Por onde Andei",
             "Artista": "Nando  Reis"
@@ -364,7 +388,7 @@
             "Artista": "Nando Reis"
         },
         {
-            "Nome": "All Star Azul",
+            "Nome": "All Star",
             "Artista": "Nando Reis"
         },
         {
@@ -393,5 +417,28 @@
             "Nome": "As Rosas não falam",
             "Artista": "Cartola"
         }
+    ]
+
+    "Alternativa Nacional"[
+        {
+            "Nome": "Piloto Automático",
+            "Artista": "Supercombo"
+        },
+        {
+            "Nome": "Amianto",
+            "Artista": "Supercombo"
+        },
+        {
+            "Nome": "Uma Atriz",
+            "Artista": "A Banda Mais Bonita da Cidade"
+        },
+        {
+            "Nome": "Oração",
+            "Artista": "A Banda Mais Bonita da Cidade"
+        },
+        {
+            "Nome": "Mais Ningúem",
+            "Artista": "Banda do Mar"
+        },
     ]
 ]
