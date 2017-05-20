@@ -1,35 +1,53 @@
 {
-
-	"welcome": "E ai gente! Bem vindos ao nosso site. Ele foi criado pelos próprios componentes da banda e, tem como objetivo criar o maior vínculo possível entre vocês e nós. Aqui poderão ver um pouco do nosso conteúdo, além de nossos contatos, para sugestões e contratações.",
-	
-	"menu": [
-		"HOME",
-		"BANDA",
-		"SHOWS",
-		"CONTATO"
-	], 
-
-	
-	"banda": {
-		"nome": "Praticamente Incorreto",  
-		"descricao": "E ai gente! Bem vindos ao nosso site. Ele foi criado pelos próprios componentes da banda e, tem como objetivo criar o maior vínculo possível entre vocês e nós. Aqui poderão ver um pouco do nosso conteúdo, além de nossos contatos, para sugestões e contratações.",
-		"email": "bandapraticamenteincorreto@gmail.com",
-		"integrantes": [
-			{
-				"nome": "Thiguet",
-				"descricao": "Definindo coisas sem sentido desde sempre.",
-				"tel": "+55 (31) 98221-6556"
-			},
-			{
-				"nome": "Barbosa",
-				"descricao": "Vegeta + Ariano + Batera + Ser o cabuloso em tudo que faz.",
-				"tel": "+55 (31) 99296-9209"
-			},
-			{
-				"nome": "Leo",
-				"descricao": "Vários meu signo plural.",
-				"tel": "+55 (31) 99246-1009"
-			}
-		]
-	}
+    "welcome": "E ai gente? Sejam bem vindos ao nosso site! Nós o fizemos para ser um espaço mais perto entre nós e vocês. Espero que gostem!",
+    "menu": [
+        "HOME",
+        "BANDA",
+        "SHOWS",
+        "CONTATO"
+    ],
+    "banda": {
+        "nome": "Praticamente Incorreto",
+        "email": "bandapraticamenteincorreto@gmail.com",
+        "integrantes": [
+            {
+                "nome": "Thiguet",
+                "descricao": "Adora falar coisas sem sentido durante o show.",
+                "tel": "+55 (31) 98221-6556",
+                "papeis": "Guitarrista e Vocalista",
+                "anoEntrada": 2014
+            },
+            {
+                "nome": "Barbosa",
+                "descricao": "Ama girar e jogar a baqueta durante o show.",
+                "tel": "+55 (31) 99296-9209",
+                "papeis": "Baterista",
+                "anoEntrada": 2014
+            },
+            {
+                "nome": "Leo",
+                "descricao": "Ama fazer uns solo lokos durante o show.",
+                "tel": "+55 (31) 99246-1009",
+                "papeis": "Guitarrista Principal",
+                "anoEntrada": 2017
+            }
+        ]
+    },
+	"shows": [
+		{
+			"titulo": "Barzinho A",
+			"data": "Sexta, 25 de maio de 2017",
+			"img": "pub a.jpg"
+		},
+		{
+			"titulo": "New York",
+			"data": "Sábado, 28 de novembro de 2015",
+			"img": "pub b.jpg"
+		},
+		{
+			"titulo": "São Francisco",
+			"data": "Domingo, 29 de novembro de 2015",
+			"img": "pub a.jpg"
+		}
+	]
 }

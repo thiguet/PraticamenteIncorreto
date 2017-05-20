@@ -1,27 +1,44 @@
-/* Colors must be Red White OR Black */
+/* PI Cascading Style Sheet */
 
-@font-face {
-    font-family: rodinaBold;
-    src: url(../css/fonts/Rodina-Bold.otf);
-}
-
+/* Importing Free Fonts For Commercial Use */
 @font-face {
     font-family: varianeScript;
     src: url(../css/fonts/VarianeScript.ttf);
 }
 
+@font-face {
+    font-family: Arciform;
+    src: url(../css/fonts/Arciform.otf);
+}
+
 body {
-    font-family: rodinaBold, varianeScript, Times New Roman !important;
-    font-size: 18px;
+    font-family: Arciform, Lato, varianeScript, Arial !important;
+    font-size: 20px;
     color: #ce4055;
 }
 
 h3, h4 {
     margin: 10px 0 30px 0;
     letter-spacing: 10px;
-    font-size: 20px;
+    font-size: 35px;
     color: #111;
 }
+
+footer {
+    background-color: #DE0500;
+    color: #f5f5f5;
+    padding: 32px;
+}
+
+footer a {
+    color: #f5f5f5;
+}
+
+footer a:hover {
+    color: #777;
+    text-decoration: none;
+}
+
 .container {
     padding: 80px 120px;
 }
@@ -34,6 +51,7 @@ h3, h4 {
 .person:hover {
     border-color: #f1f1f1;
 }
+
 .carousel-inner img {
     width: 100%; /* Set width to 100% */
     margin: auto;
@@ -103,6 +121,8 @@ h3, h4 {
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
 }
+
+
 .navbar {
     font-family: inherit;
     margin-bottom: 0;
@@ -135,18 +155,7 @@ h3, h4 {
 .dropdown-menu li a:hover {
     background-color: red !important;
 }
-footer {
-    background-color: #DE0500;
-    color: #f5f5f5;
-    padding: 32px;
-}
-footer a {
-    color: #f5f5f5;
-}
-footer a:hover {
-    color: #777;
-    text-decoration: none;
-}
+
 .form-control {
     border-radius: 0;
 }
@@ -157,5 +166,24 @@ textarea {
 #myCarousel {
     margin-top: 50px;
     width: 100%;
-    height: 100%;
+    height: 600px;
+    overflow: hidden;
+}
+
+@media (max-width: 600px) {
+    #myCarousel {
+        height: 500px; 
+    }
+}
+.menu-item {
+    display: inline-block !important;
+    text-align: right;
+}
+
+#menu {
+    background-color: inherit;
+
+}
+.navbar-toggle .icon-bar {
+    background-color: #ccc !important;
 }
