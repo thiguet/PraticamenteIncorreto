@@ -1,3 +1,3 @@
-function RegisterInAngular(name, callback) {
+function registerInAngular(name, callback) {
 	app.controller(name, callback);
 }

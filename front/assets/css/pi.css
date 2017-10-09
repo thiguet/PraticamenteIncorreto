@@ -122,8 +122,9 @@ footer a:hover {
     filter: grayscale(100%);
 }
 
-
 .navbar {
+    position: fixed;
+    top: 0px;
     font-family: inherit;
     margin-bottom: 0;
     background-color: #DE0500;
@@ -182,8 +183,8 @@ textarea {
 
 #menu {
     background-color: inherit;
-
 }
+
 .navbar-toggle .icon-bar {
     background-color: #ccc !important;
 }

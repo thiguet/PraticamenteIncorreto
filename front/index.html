@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br" id='HOME'>
 <head>
+  <!-- Theme Made By www.w3schools.com - No Copyright -->
   <title>Praticamente Incorreto</title>
   <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" >
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,7 +27,7 @@
   <script src="dist/app.js"></script>
 </head>
 
-<body id="HOME" data-spy="scroll" data-target=".navbar" data-offset="50" ng-app='praticamenteIncorreto' ng-controller="screenInit">
+<body data-spy="scroll" data-target=".navbar" data-offset="0" ng-app='praticamenteIncorreto' ng-controller="screenInit">
     <!-- Navbar Section -->
     <header>
         <nav class="navbar navbar-default navbar-fixed-top">
@@ -58,17 +59,9 @@
         <div class="carousel-inner" role="listbox">
           <div class="item active">
             <img src="assets/imgs/pecas_graficas/logo.jpg" alt="Logo" width="1200" height="700">
-            <div class="carousel-caption">
-              <h3>Teste!</h3>
-              <p>Esse é o texto de nossa logo!</p>
-            </div>
           </div>
           <div class="item" >
             <img src="assets/imgs/pecas_graficas/logoteste.jpg" alt="LogoTeste" width="1200" height="700"> 
-            <div class="carousel-caption">
-              <h3>Tes  te!</h3>
-              <p>Esse é o texto de nossa logo!</p>
-            </div>
           </div>
         </div>
 
@@ -91,7 +84,7 @@
       <div class="row">
         <div class="col-sm-4" ng-repeat=" integrante in banda.integrantes" >
           <a href="#{{integrante.nome}}" data-toggle="collapse">
-            <img src="assets/imgs/participantes/{{integrante.nome}}.jpg" class="img-circle person" alt="{{integrante.nome}}">
+            <img ng-src = "{{integrante.foto}}" alt="{{show.nome}}" class="img-circle person" alt="{{integrante.nome}}" />
           </a>
           <p class="text-center"><strong>{{integrante.nome}}</strong></p><br>
           <div id="{{integrante.nome}}" class="collapse">
@@ -122,7 +115,7 @@
 
     <!-- Container (Contact Section) -->
     <div id="CONTATO" class="container">
-      <h3 class="text-center">Contato</h3>
+      <h3 class="text-center" >Contato</h3>
       <p class="text-center"><em>Nós adoramos a energia e as mensagens de todos vocês! Mandem para a gente!</em></p>
 
       <div class="row">
@@ -131,23 +124,25 @@
           <p ng-repeat="integrante in banda.integrantes"><span class="glyphicon glyphicon-phone"></span> {{integrante.nome}} : {{integrante.tel}}</p>
           <p><span class="glyphicon glyphicon-envelope"></span> Email: {{banda.email}}</p>
         </div>
-        <div class="col-md-8">
-          <div class="row">
-            <div class="col-sm-6 form-group">
-              <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+        <form name="mailComment">
+          <div class="col-md-8">
+            <div class="row">
+              <div class="col-sm-6 form-group">
+                <input class="form-control" id="name" name="name" placeholder="Nome" type="text" required >
+              </div>
+              <div class="col-sm-6 form-group">
+                <input class="form-control" id="email" name="email" placeholder="Email" type="email" required > 
+              </div>
             </div>
-            <div class="col-sm-6 form-group">
-              <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
+            <textarea class="form-control" id="comments" name="comments" placeholder="Comentários" rows="5"></textarea>
+            <br>
+            <div class="row">
+              <div class="col-md-12 form-group">
+                <button class="btn pull-right" type="submit" id="submitComment">Enviar</button>
+              </div>
             </div>
           </div>
-          <textarea class="form-control" id="comments" name="comments" placeholder="Comentários" rows="5"></textarea>
-          <br>
-          <div class="row">
-            <div class="col-md-12 form-group">
-              <button class="btn pull-right" type="submit">Enviar</button>
-            </div>
-          </div>
-        </div>
+        </form>
       </div>
     </div>
 

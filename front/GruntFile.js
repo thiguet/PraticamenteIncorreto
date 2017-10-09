@@ -37,9 +37,7 @@ module.exports = function (grunt) {
   );
 
   function getJSPaths() {
-    var paths = [
-      ('./assets/js/**/*.js')
-    ];
+    var paths = [ ('./assets/js/**/*.js') ];
     return paths;
   }
 
