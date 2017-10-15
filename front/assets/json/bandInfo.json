@@ -1,0 +1,82 @@
+{
+    "welcome": "E ai gente? Sejam bem vindos ao nosso site! Nós o fizemos para ser um espaço mais perto entre nós e vocês. Espero que gostem!",
+    "menu": [
+        "HOME", "BANDA", "SHOWS", "CONTATO"
+    ],
+    "banda": {
+        "nome": "Praticamente Incorreto",
+        "email": "bandapraticamenteincorreto@gmail.com",
+        "integrantes": [
+            {
+                "nome": "Thiguet",
+                "descricao": "Adora falar coisas sem sentido durante o show.",
+                "tel": "+55 (31) 98221-6556",
+                "papeis": "Guitarrista e Vocalista",
+                "anoEntrada": 2014,
+                "foto" :  "./assets/imgs/participantes/thiguet.jpg"
+            },
+            {
+                "nome": "Barbosa",
+                "descricao": "Ama girar e jogar a baqueta durante o show.",
+                "tel": "+55 (31) 99296-9209",
+                "papeis": "Baterista",
+                "anoEntrada": 2014,
+                "foto": "./assets/imgs/participantes/barbosa.jpg"
+            },
+            {
+                "nome": "Leo",
+                "descricao": "Ama fazer uns solo lokos durante o show.",
+                "tel": "+55 (31) 99246-1009",
+                "papeis": "Guitarrista Principal",
+                "anoEntrada": 2017,
+                "foto": "./assets/imgs/participantes/leo.jpg"
+            }
+        ]
+    },
+	"shows": [
+		{
+			"titulo": "Barzinho A",
+			"data": "Sexta, 25 de maio de 2017",
+			"img": "pub_a.jpg"
+		},
+		{
+			"titulo": "New York",
+			"data": "Sábado, 28 de novembro de 2015",
+			"img": "pub_b.jpg"
+		},
+		{
+			"titulo": "São Francisco",
+			"data": "Domingo, 29 de novembro de 2015",
+			"img": "pub_a.jpg"
+		}
+	],
+    "imagens": [
+        {
+            "tipo" : "pecas_graficas",
+            "imgs": [
+                
+                {
+                    "titulo": "Logo",
+                    "url": "pecas_graficas/logo.jpg"
+                },
+                {
+                    "titulo": "Logo Teste",
+                    "url": "pecas_graficas/logoteste.jpg"
+                }
+            ]
+        },
+        {
+            "tipo" : "lugares",
+            "imgs": [
+                {
+                    "titulo": "Pub A",
+                    "url": "lugares/pub_a.jpg"
+                },
+                {
+                    "titulo": "Pub B",
+                    "url": "lugares/pub_b.jpg"
+                }
+            ]
+        }
+    ]
+}
