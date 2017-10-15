@@ -1,5 +1,5 @@
 <?php
-namespace PI/Exception; 
+namespace PI\Exception; 
 
 class EmailException extends \Exception {
 	public function error($message) {
